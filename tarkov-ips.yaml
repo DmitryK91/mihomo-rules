@@ -18,3 +18,4 @@ payload:
   - 37.19.203.0/24,no-resolve
   - 212.102.54.0/23,no-resolve
   - 185.156.44.0/24,no-resolve
+  - 109.61.89.0/24,no-resolve
